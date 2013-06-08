@@ -1,4 +1,3 @@
-
 <?php
 class MyObj
 {
@@ -15,5 +14,5 @@ private static $city = array("Dhaka", "London", "Honslow West", "Richmond");
 echo "<br>";
 		}
 	}
-}
+}//THIS IS TEST
 
