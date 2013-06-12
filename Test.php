@@ -1,8 +1,7 @@
-
 <?php
 class MyObj
 {
-//this is just a comment.........
+//this is just a comment......... this is todays test.............
 private static $city = array("Dhaka", "London", "Honslow West", "Richmond");
 	
     public function __construct()
